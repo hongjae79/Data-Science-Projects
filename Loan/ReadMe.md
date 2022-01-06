@@ -1,4 +1,6 @@
 Loan
+
+
 This is one of the elementary project of data science.
 
 The goal is to predict whether loan is approved or not by analyzing datas: Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others.
